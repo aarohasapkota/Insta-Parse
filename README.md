@@ -2,7 +2,7 @@
 
     This Repo is the copy of my Submission for Lab 2 for Code Path IOS 2 Course.
 
-## Lab Description
+## Description
     Frameworks Used: ParseSwift, PhotosUI
     
     This app replicates a Instagram like UI.

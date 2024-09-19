@@ -1,17 +1,13 @@
-# Lab 2 : Insta Parse
+# Insta Parse
 
-    Name :  Aaroha Sapkota
-
-    ZNumber : Z23692635
-
-    This Repo serves as my submission Repo for Lab 2 : Insta Parse
+    This Repo is the copy of my Submission for Lab 2 for Code Path IOS 2 Course.
 
 ## Lab Description
     Frameworks Used: ParseSwift, PhotosUI
     
     This app replicates a Instagram like UI.
     
-    We use Back4App Parse Backend Server to utilize user authentication
+    I have used Back4App Parse Backend Server to utilize user authentication
     and store user data like scores and also posts that users makes as photos.
     
     It also has saved log-in session so that

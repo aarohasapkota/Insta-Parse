@@ -1,6 +1,5 @@
 # Insta Parse
 
-    This Repo is the copy of my Submission for Lab 2 for Code Path IOS 2 Course.
 
 ## Description
     Frameworks Used: ParseSwift, PhotosUI
